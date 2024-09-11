@@ -1,0 +1,5 @@
+outs:
+- md5: be6732d4f964809414f0661d601c4233
+  size: 27690192
+  hash: md5
+  path: geom_permutation.npy

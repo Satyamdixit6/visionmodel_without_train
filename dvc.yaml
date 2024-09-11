@@ -1,0 +1,9 @@
+# this file only for data preprocessing and verson control the data
+stages:
+  preprocessing:
+    cmd: python src/preprocess.py
+    deps:
+      - src/preprocess.py
+      - data/raw
+  
+  
